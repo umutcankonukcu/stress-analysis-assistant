@@ -1,0 +1,30 @@
+version: "3.1"
+
+intents:
+  - anger
+  - happy
+  - sadness
+  - surprise
+  - fear
+  - disgust
+  - ambigious
+responses:
+  utter_anger:
+    - text: "Bu cümle öfkeyi ifade ediyor."
+  utter_happy:
+    - text: "Bu cümle mutluluğu ifade ediyor."
+  utter_sadness:
+    - text: "Bu cümle üzüntüyü ifade ediyor."
+  utter_surprise:
+    - text: "Bu cümle şaşkinligi ifade ediyor."
+  utter_fear:
+    - text: "Bu cümle korkuyu ifade ediyor."
+  utter_disgust:
+    - text: "Bu cümle iğrençliği ifade ediyor."
+  utter_ambigious:
+    - text: "Bu cümle bir şey ifade etmiyor."
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

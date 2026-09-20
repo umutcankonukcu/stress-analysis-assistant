@@ -1,0 +1,2762 @@
+[
+  {
+    "text": "ingilizce sınavından 90 beklerken 78 aldığım zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.397194504737854
+    }
+  },
+  {
+    "text": "bir durumda elimden bir gelmemesi",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.5345947742462158
+    }
+  },
+  {
+    "text": "toplu taşıma araçlarında yüksek sesle konuşan insanlar",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.8059937953948975
+    }
+  },
+  {
+    "text": "çalışmadığım halde tam not aldığımda",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9102623462677002
+    }
+  },
+  {
+    "text": "sınavda yanlış yaptığım sorunun doğru çıkması",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.5280743837356567
+    }
+  },
+  {
+    "text": "babam kızdığı zaman",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.6136126518249512
+    }
+  },
+  {
+    "text": "sevdiğim çocuğun bir anda beni sevdiğini söylemesi",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9932478666305542
+    }
+  },
+  {
+    "text": "kimya sınavından 100 almam",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.47691041231155396
+    }
+  },
+  {
+    "text": "kardeşimin yeni aldığım bir şeye zarar vermesi",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.5528998374938965
+    }
+  },
+  {
+    "text": "arkadaşımla sebepsiz yere tartıştığım zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.6725620627403259
+    }
+  },
+  {
+    "text": "biyoloji sınavından 100 aldığımda",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.6920563578605652
+    }
+  },
+  {
+    "text": "100 beklediğim sınavdan 80 aldığımda",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.47773277759552
+    }
+  },
+  {
+    "text": "aşırı tepki gördüğümde",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.46183255314826965
+    }
+  },
+  {
+    "text": "evde yalnız kaldığımda",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.8605788946151733
+    }
+  },
+  {
+    "text": "sürpriz yapılması",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.6561151742935181
+    }
+  },
+  {
+    "text": "matematik sınavından 85 almıştım",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9961579442024231
+    }
+  },
+  {
+    "text": "internet aniden gittiği zaman",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.9406485557556152
+    }
+  },
+  {
+    "text": "ölüm haberlerine şaşırırım",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9214584827423096
+    }
+  },
+  {
+    "text": "yüksek beklediğim bir sınavdan düşük not almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.902807354927063
+    }
+  },
+  {
+    "text": "bir sınavda bir yarışmada başarısız olmak",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.7760166525840759
+    }
+  },
+  {
+    "text": "ön yargılı olan insanlardan",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.8066932559013367
+    }
+  },
+  {
+    "text": "arkadaşlarım bana sürpriz doğum gün partisi hazırlamıştı",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.7901893854141235
+    }
+  },
+  {
+    "text": "yakın arkadaşım dedikodu bulunca",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.6959943175315857
+    }
+  },
+  {
+    "text": "matematik sınavından 100 beklerken 10 almam",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.8244926929473877
+    }
+  },
+  {
+    "text": "arkadaşlarımla tartıştığımda",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.5403587818145752
+    }
+  },
+  {
+    "text": "babamın doğum günümde sürpriz yaparak gelmesi",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.6205611824989319
+    }
+  },
+  {
+    "text": "sürpriz doğum günü yapıldığı zaman",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.6940749287605286
+    }
+  },
+  {
+    "text": "beklemediğim bir zamanda hediye almak",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.806616485118866
+    }
+  },
+  {
+    "text": "sınavdan 100 aldım",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.9027242064476013
+    }
+  },
+  {
+    "text": "anketi bitirince",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.4551468789577484
+    }
+  },
+  {
+    "text": "yüksek alacağımdan emin olduğum sınavdan düşük not almak",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.5909847021102905
+    }
+  },
+  {
+    "text": "kolumun kırıldığını öğrendiğim an",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.7646125555038452
+    }
+  },
+  {
+    "text": "düşük beklediğim sınavın yüksek gelmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9755703806877136
+    }
+  },
+  {
+    "text": "sınavdan düşük beklerken yüksek not almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.5574238300323486
+    }
+  },
+  {
+    "text": "yüksek beklediğim bir sınavdan düşük not aldığım zaman",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9262503981590271
+    }
+  },
+  {
+    "text": "tek korkum allah",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.9652653932571411
+    }
+  },
+  {
+    "text": "kaybetmek",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9994646906852722
+    }
+  },
+  {
+    "text": "sevdiğim erkeğin başka bir kızla çıkması",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.41237422823905945
+    }
+  },
+  {
+    "text": "iki yakın kızın kavga etmesi",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.7510092258453369
+    }
+  },
+  {
+    "text": "deli olmadığımı öğrenmek",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.8074861168861389
+    }
+  },
+  {
+    "text": "birden sınav yapılması",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.5050280690193176
+    }
+  },
+  {
+    "text": "tuttuğum takımın yenilmesi",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9552751183509827
+    }
+  },
+  {
+    "text": "arabanın ezdiği kediyi gördüğümde",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.8875582814216614
+    }
+  },
+  {
+    "text": "kedilerin ani hareketleri",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.8512956500053406
+    }
+  },
+  {
+    "text": "haksız olduğum zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.7407448887825012
+    }
+  },
+  {
+    "text": "fizik sınavlarının zor olması",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.4966955780982971
+    }
+  },
+  {
+    "text": "sınav olmayan günler",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.4789031744003296
+    }
+  },
+  {
+    "text": "ailemin olmadığı bir dünya düşünmek",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.4702244699001312
+    }
+  },
+  {
+    "text": "düşük beklediğim fizik sınavından yüksek not aldığımda",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9624497294425964
+    }
+  },
+  {
+    "text": "sokaklarda yaşayan insanlara",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9295857548713684
+    }
+  },
+  {
+    "text": "ön yargılı davranan insanlar",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.8057581782341003
+    }
+  },
+  {
+    "text": "sınavdan yüksek beklerken düşük not almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.4488676190376282
+    }
+  },
+  {
+    "text": "ani şeyler",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.6644853949546814
+    }
+  },
+  {
+    "text": "konuşan insanlar",
+    "intent": "disgust",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.7756878733634949
+    }
+  },
+  {
+    "text": "küfür eden insanlardan hoşlanmıyorum",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.5252456665039062
+    }
+  },
+  {
+    "text": "değer verdiğim insanın bana yalan söylemesi",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9131761789321899
+    }
+  },
+  {
+    "text": "çalışmadığım yerden soru çıktığı zaman",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.49609139561653137
+    }
+  },
+  {
+    "text": "sınavda yüksek not beklerken düşük bir not aldım",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.6234416365623474
+    }
+  },
+  {
+    "text": "duygusal bir film izlediğim zaman",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9668806195259094
+    }
+  },
+  {
+    "text": "kötü geçen bir sınavdan yüksek not aldığım zaman",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9581190347671509
+    }
+  },
+  {
+    "text": "kan görmek",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.7799956202507019
+    }
+  },
+  {
+    "text": "girdiğim sınavda",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.655647873878479
+    }
+  },
+  {
+    "text": "ingilizce sınavından 25 aldığımda",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.5855873823165894
+    }
+  },
+  {
+    "text": "korktuğum başıma geldiğinde",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.920748770236969
+    }
+  },
+  {
+    "text": "insanların tavırları",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9751268625259399
+    }
+  },
+  {
+    "text": "iyi geçen sınavdan düşük aldığım zaman",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9711132049560547
+    }
+  },
+  {
+    "text": "istemediğim bir durum olduğunda",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.45135733485221863
+    }
+  },
+  {
+    "text": "boş olan dersin öğretmeni geldiğinde",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.43873703479766846
+    }
+  },
+  {
+    "text": "yüksek almayı beklediğim bir sınavdan düşük almam",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.4855252504348755
+    }
+  },
+  {
+    "text": "yalan söyleyen arkadaşlarımdan hoşlanmıyorum",
+    "intent": "disgust",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9380223155021667
+    }
+  },
+  {
+    "text": "yurtta olan öğrencilerin ailesine sürpriz yaparak eve gitmesi",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.8246963024139404
+    }
+  },
+  {
+    "text": "gerçekleşmesi düşük olan bir şeyin gerçekleşmesi",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.8072580695152283
+    }
+  },
+  {
+    "text": "2 yaz önce trafik kazası geçirmiştik",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.9084320664405823
+    }
+  },
+  {
+    "text": "matematik sınavından 100 aldığım zaman",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.41288015246391296
+    }
+  },
+  {
+    "text": "böcek görünce",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.5209001302719116
+    }
+  },
+  {
+    "text": "iyi geçen bir sınavdan düşük not alınca",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.8254045844078064
+    }
+  },
+  {
+    "text": "zor sınav sorularından",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.9656171798706055
+    }
+  },
+  {
+    "text": "yüksek ses",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.9195247292518616
+    }
+  },
+  {
+    "text": "sınavdan düşük beklerken yüksek almak",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.4712502658367157
+    }
+  },
+  {
+    "text": "evde yemek olmaması",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.589497447013855
+    }
+  },
+  {
+    "text": "yanımda sakız çiğnenmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.9984825253486633
+    }
+  },
+  {
+    "text": "ummadığım bir durumun gerçekleşmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.8051760792732239
+    }
+  },
+  {
+    "text": "öğretmenlerin bir anda sınav yapması",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.40186384320259094
+    }
+  },
+  {
+    "text": "böcek gördüğümde",
+    "intent": "disgust",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.8326587677001953
+    }
+  },
+  {
+    "text": "okulun olduğu zamanlar",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9167428016662598
+    }
+  },
+  {
+    "text": "test yaparken",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.5750953555107117
+    }
+  },
+  {
+    "text": "düşük beklediğim sınavdan yüksek almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9452439546585083
+    }
+  },
+  {
+    "text": "sınavdan 80 beklerken 100 almıştım",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9946786165237427
+    }
+  },
+  {
+    "text": "yolda ölü bir hayvan gördüğümde",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.6025181412696838
+    }
+  },
+  {
+    "text": "boş derse öğretmen gelmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.36005353927612305
+    }
+  },
+  {
+    "text": "etrafımda kavga eden insanlardan",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.49526742100715637
+    }
+  },
+  {
+    "text": "babamın trafik kazası geçirdiğini öğrendiğim an",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.9946526288986206
+    }
+  },
+  {
+    "text": "fizik matematik sınavından 100 aldığım zaman",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.7808929085731506
+    }
+  },
+  {
+    "text": "kedi ölüsü",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.6079177856445312
+    }
+  },
+  {
+    "text": "10 beklediğim sınavdan 83 aldığımda",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.47773277759552
+    }
+  },
+  {
+    "text": "yolda giderken ölmüş bir kedi görmüştüm",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.8129904866218567
+    }
+  },
+  {
+    "text": "iyi geçen bir sınavdan düşük not aldığım zaman",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9427844882011414
+    }
+  },
+  {
+    "text": "motor kullandığımda",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.5857415795326233
+    }
+  },
+  {
+    "text": "bir sınavdan düşük almıştım",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9940044283866882
+    }
+  },
+  {
+    "text": "kendimi yalnız hissettiğim anda yanımda kimsenin olmaması",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.6200830936431885
+    }
+  },
+  {
+    "text": "80 beklerken 60 almak",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.6005007028579712
+    }
+  },
+  {
+    "text": "böcek görmek",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.7201006412506104
+    }
+  },
+  {
+    "text": "ailem arkadaşlarımla tartışmak",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.5683748722076416
+    }
+  },
+  {
+    "text": "birinin aniden karşıma çıkması",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.578679621219635
+    }
+  },
+  {
+    "text": "yolda ölü bir hayvan gördüğüm zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.8032349348068237
+    }
+  },
+  {
+    "text": "bittiği gün",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9578308463096619
+    }
+  },
+  {
+    "text": "sınavdan 100 beklerken 80 aldım",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.6650936603546143
+    }
+  },
+  {
+    "text": "kediler",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.8328036665916443
+    }
+  },
+  {
+    "text": "yeni dedikodu duyduğumda",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.8991981744766235
+    }
+  },
+  {
+    "text": "erkek arkadaşımın bana oyuncak ayı hediye etmesi",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9605842232704163
+    }
+  },
+  {
+    "text": "insanların beklenmedik hareketlerini gördüğümde",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.7277503609657288
+    }
+  },
+  {
+    "text": "vize sonuçlarını öğrendiğimde",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.7018353343009949
+    }
+  },
+  {
+    "text": "matematikten 70 beklerken 32 aldığıma şaşırdım",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9984152317047119
+    }
+  },
+  {
+    "text": "soruları yarım yapıp tam puan almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.8280196189880371
+    }
+  },
+  {
+    "text": "örümcek böcek",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.7688180208206177
+    }
+  },
+  {
+    "text": "iyi beklediğim sınavdan düşük not almak",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9569835662841797
+    }
+  },
+  {
+    "text": "babam trafik kazası geçirdiği zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.9942699670791626
+    }
+  },
+  {
+    "text": "kardeşimle ettiğimiz kavga",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.6186671257019043
+    }
+  },
+  {
+    "text": "çalıştığım sınavdan beklediğimden puan almak",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.4929811656475067
+    }
+  },
+  {
+    "text": "kolay olan sınavlar",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.4297933578491211
+    }
+  },
+  {
+    "text": "düşük beklerken yüksek not almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.840168833732605
+    }
+  },
+  {
+    "text": "sınava çalışıp düşük not almak",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9003388285636902
+    }
+  },
+  {
+    "text": "birisini gördüğümü sanmak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.7570640444755554
+    }
+  },
+  {
+    "text": "sabah erken kalkmak zorunda olmak",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.5700169801712036
+    }
+  },
+  {
+    "text": "yalnız kaldığım zaman",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9064822196960449
+    }
+  },
+  {
+    "text": "birisine haksızlık yapılmasından tiksinirim",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.5721803903579712
+    }
+  },
+  {
+    "text": "haksızlıklar olmayınca",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.7623435258865356
+    }
+  },
+  {
+    "text": "fizik sınavından 100 aldığım zaman",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.6067548990249634
+    }
+  },
+  {
+    "text": "uzun süredir görmediğim bir arkadaşımı gördüğümde",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.5832396149635315
+    }
+  },
+  {
+    "text": "sınavdan 70 aldığım zaman",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.8025311827659607
+    }
+  },
+  {
+    "text": "çalışmama rağmen kötü not aldığımda",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.6572123169898987
+    }
+  },
+  {
+    "text": "insanların yapmaması gereken şeyleri yapması",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9740461111068726
+    }
+  },
+  {
+    "text": "ölmüş bir insanın aniden karşıma çıkması",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.8745921850204468
+    }
+  },
+  {
+    "text": "çalışmadığım zamanlar öğretmenin soru sorması",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.7543426156044006
+    }
+  },
+  {
+    "text": "sokaklarda zarar görmüş bir hayvan gördüğüm zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.8119097948074341
+    }
+  },
+  {
+    "text": "kuzenimin kaçması",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.7228487133979797
+    }
+  },
+  {
+    "text": "sınav zor olduğunda",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.6408206820487976
+    }
+  },
+  {
+    "text": "yılandan nefret ediyorum",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.7053974270820618
+    }
+  },
+  {
+    "text": "yanlış bir söylediğim zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.7198163270950317
+    }
+  },
+  {
+    "text": "çalışmadan girdiğim matematik sınavından yüksek not almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.7066935896873474
+    }
+  },
+  {
+    "text": "kimyadan 100 almam",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.912038266658783
+    }
+  },
+  {
+    "text": "herhangi bir konuda başarısız olmak",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.579617977142334
+    }
+  },
+  {
+    "text": "kardeşim kaza geçirdiği zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.7759201526641846
+    }
+  },
+  {
+    "text": "ailemin asla yapılmaması gereken bir yaptığını duyduğumda",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.8199256658554077
+    }
+  },
+  {
+    "text": "iyi çalıştığım halde kötü not almak",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9398139119148254
+    }
+  },
+  {
+    "text": "düşük beklediğim bir sınavdan yüksek not alınca",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.826124370098114
+    }
+  },
+  {
+    "text": "zor bir soruyu çözdüğümde",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.37514859437942505
+    }
+  },
+  {
+    "text": "kendisini üstün gören insanlara",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.9067085981369019
+    }
+  },
+  {
+    "text": "hak ettiğim bir şeyin karşılığını alamadığımda",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.6484226584434509
+    }
+  },
+  {
+    "text": "iyi geçen bir sınavdan beklemediğim not aldığımda",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9767491817474365
+    }
+  },
+  {
+    "text": "babam tekrar sigaraya başladığında",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.815727949142456
+    }
+  },
+  {
+    "text": "arkadaşım sözünü tutmadığı 1 ay kadar küs kalmıştım",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9697885513305664
+    }
+  },
+  {
+    "text": "beklemediğim bir kişi kötü bir yaptığı zaman",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.7959470748901367
+    }
+  },
+  {
+    "text": "istediğim bir aniden olursa",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.4905247986316681
+    }
+  },
+  {
+    "text": "annemin ameliyat olacağını öğrendiğimde",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.5963122248649597
+    }
+  },
+  {
+    "text": "elektriklerin birden kesilmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.9954196214675903
+    }
+  },
+  {
+    "text": "sevdiğim kızın başkasıyla çıkması",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.8143638968467712
+    }
+  },
+  {
+    "text": "yakın arkadaşımın ihanet etmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.8639791011810303
+    }
+  },
+  {
+    "text": "hediye sürpriz",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9224626421928406
+    }
+  },
+  {
+    "text": "doğum gün sürprizi",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9012183547019958
+    }
+  },
+  {
+    "text": "yakın arkadaşım istanbul'a gittiği zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.5390018820762634
+    }
+  },
+  {
+    "text": "sevdiğim insanlara bir olduğu zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.5739859342575073
+    }
+  },
+  {
+    "text": "düşük not beklerken yüksek almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.8419410586357117
+    }
+  },
+  {
+    "text": "sınavdan 50 aldığım zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.8025311827659607
+    }
+  },
+  {
+    "text": "birisi bana sürpriz yaptığı zaman",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.6677365303039551
+    }
+  },
+  {
+    "text": "kendimi karşımdakinden küçük hissettiğim zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9537827372550964
+    }
+  },
+  {
+    "text": "güvendiğim birinin yalan söylemesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9851775765419006
+    }
+  },
+  {
+    "text": "kimyadan 54 almak",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.5325360894203186
+    }
+  },
+  {
+    "text": "teog sınavında 3-4 yanlış beklerken 1 yanlışımın çıkması",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.66018146276474
+    }
+  },
+  {
+    "text": "öğretmenlerin sözlü sınavdan düşük not vermesi",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.8511675000190735
+    }
+  },
+  {
+    "text": "sürpriz doğum günü",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.7711118459701538
+    }
+  },
+  {
+    "text": "sevmediğim birisinin yanında olmak",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.768456220626831
+    }
+  },
+  {
+    "text": "sevmediğim bir yemeği yemek zorunda kaldığımda",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.9345567226409912
+    }
+  },
+  {
+    "text": "iyi geçen matematik sınavından 27 puan aldığım zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.496865451335907
+    }
+  },
+  {
+    "text": "yüksek beklediğim sınavdan düşük gelmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.8536202311515808
+    }
+  },
+  {
+    "text": "beklenmedik bir anda karşıma bir çıkması",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.8901327252388
+    }
+  },
+  {
+    "text": "bir sınavdan yüksek almayı bekliyordum fakat düşük bir puan almıştım",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9966358542442322
+    }
+  },
+  {
+    "text": "tarih dersinden 100 almıştım",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9999868869781494
+    }
+  },
+  {
+    "text": "matematik sınavından 66 almam",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.571393609046936
+    }
+  },
+  {
+    "text": "beklemediğim bir yerden para gelmesi",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.7701607942581177
+    }
+  },
+  {
+    "text": "matematikten 40 beklerken 71 aldığım zaman",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.44307246804237366
+    }
+  },
+  {
+    "text": "yakın arkadaşlarımı tanımadığımı anladığım zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.930823028087616
+    }
+  },
+  {
+    "text": "yakın arkadaşımın arkamdan iş çevirmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.939990222454071
+    }
+  },
+  {
+    "text": "uzun bir süredir görmediğim birisini gördüğüm zaman",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.6257991194725037
+    }
+  },
+  {
+    "text": "sınavda emin olduğum sorunun yanlış çıkması",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9047828316688538
+    }
+  },
+  {
+    "text": "galatasaray'ın sezon durumu",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.9081169962882996
+    }
+  },
+  {
+    "text": "başkalarının benim eşyalarımı kullanması",
+    "intent": "disgust",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.478294312953949
+    }
+  },
+  {
+    "text": "sınava çalışmadığım zaman",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.6295153498649597
+    }
+  },
+  {
+    "text": "küfür eden insanlar",
+    "intent": "disgust",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9959284663200378
+    }
+  },
+  {
+    "text": "kardeşimin benim kazandığım liseyi kazanması",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9717193245887756
+    }
+  },
+  {
+    "text": "karşıma çıkan soruların kolay olması",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.5574338436126709
+    }
+  },
+  {
+    "text": "arkadaşlarım bensiz plan yaptıklarında",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.533790647983551
+    }
+  },
+  {
+    "text": "aniden karşıma çıktığı zaman",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.9584261775016785
+    }
+  },
+  {
+    "text": "güvendiğim insanların beni haksız çıkarması",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.5761961340904236
+    }
+  },
+  {
+    "text": "sınıf arkadaşımın beni 1 puan geçmesi",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.7778287529945374
+    }
+  },
+  {
+    "text": "kardeşimin davranışları",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.5462953448295593
+    }
+  },
+  {
+    "text": "internette izlediğim bir videodan",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.7257776856422424
+    }
+  },
+  {
+    "text": "çaresiz kalmaktan",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.8470858335494995
+    }
+  },
+  {
+    "text": "fizikten 70 beklerken 30 almam",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.8241693377494812
+    }
+  },
+  {
+    "text": "matematik sınavından 18 almıştım",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9961579442024231
+    }
+  },
+  {
+    "text": "sınav haftası geldiği zaman",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.9166766405105591
+    }
+  },
+  {
+    "text": "yalnızlık anlaşılmamak",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.49360913038253784
+    }
+  },
+  {
+    "text": "uykusuz çaresiz olduğum zamanlar",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.7863082885742188
+    }
+  },
+  {
+    "text": "istemediğim bir olduğunda",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.5098865628242493
+    }
+  },
+  {
+    "text": "çöp kutusuna elim değdiği zaman",
+    "intent": "disgust",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.7719525098800659
+    }
+  },
+  {
+    "text": "beklediğim bir şeyin gerçekleşmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.721770167350769
+    }
+  },
+  {
+    "text": "hoşlandığım kızın sevgilisinin olması",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.40930745005607605
+    }
+  },
+  {
+    "text": "doğum günümde arkadaşlarımın sürpriz yapması",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.627906858921051
+    }
+  },
+  {
+    "text": "beklemediğim arkadaşım bana yanlış yaptığı zaman",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.6075435876846313
+    }
+  },
+  {
+    "text": "düşük not almak böcek",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.7155737280845642
+    }
+  },
+  {
+    "text": "ailemden birisine bir olması",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9313904643058777
+    }
+  },
+  {
+    "text": "çalışmadığım sınavdan iyi not almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.7948744893074036
+    }
+  },
+  {
+    "text": "bildiğim halde soruyu yanlış yaptığım zaman",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.7998262643814087
+    }
+  },
+  {
+    "text": "doğru kişiler sandığım kişilerin yanlış çıkması",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.4172879457473755
+    }
+  },
+  {
+    "text": "değişik kişileri gördüğüm zaman",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.6000411510467529
+    }
+  },
+  {
+    "text": "bana yakın olan insanlarla tartıştığım zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.8985188603401184
+    }
+  },
+  {
+    "text": "sınavdan düşük beklerken yüksek not almıştım",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9932321310043335
+    }
+  },
+  {
+    "text": "kendisine bilerek zarar verilmesi",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.6712380647659302
+    }
+  },
+  {
+    "text": "sevmediğim insanlar aynı ortamda olduğum zamanlar",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.7105048894882202
+    }
+  },
+  {
+    "text": "insanlara değer verilmesi",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9697665572166443
+    }
+  },
+  {
+    "text": "beklediğimin üstünde not almak",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9309884309768677
+    }
+  },
+  {
+    "text": "ailemle tartıştığım yalan söylendiği zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9995818734169006
+    }
+  },
+  {
+    "text": "beni mutlu eden beklemediğim olaylar olduğunda",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.6647438406944275
+    }
+  },
+  {
+    "text": "beklemediğim yüksek not",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9545763731002808
+    }
+  },
+  {
+    "text": "iyi geçen sınavdan kötü not alınca",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.49326738715171814
+    }
+  },
+  {
+    "text": "sahile vuran bebek cesedi haberine",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.9999758005142212
+    }
+  },
+  {
+    "text": "kardeşimin erken yaşta konuşması",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9936261177062988
+    }
+  },
+  {
+    "text": "sınavda beklediğimden düşük not almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9764599204063416
+    }
+  },
+  {
+    "text": "beklemediğim bir sınavdan yüksek almıştım",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9999959468841553
+    }
+  },
+  {
+    "text": "arkadaşlarım dedikodu yaparken",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.7129673361778259
+    }
+  },
+  {
+    "text": "istediğimi elde edemediğim zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.8748726844787598
+    }
+  },
+  {
+    "text": "ailem bana sürpriz yaptığı zaman",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9601282477378845
+    }
+  },
+  {
+    "text": "100 beklediğim sınavdan 62 aldığımda",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.47773277759552
+    }
+  },
+  {
+    "text": "ölümü düşündüm",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9935209155082703
+    }
+  },
+  {
+    "text": "yüksek not beklerken düşük not aldığımda",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9854089617729187
+    }
+  },
+  {
+    "text": "fenerbahçe'nin herhangi bir maçta gol yemesi",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.5575838685035706
+    }
+  },
+  {
+    "text": "sevdiğim birisini ulaşamadığım zaman",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.7127079963684082
+    }
+  },
+  {
+    "text": "doğum günümde yakın arkadaşlarımın bana sürpriz yapması",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.6491895318031311
+    }
+  },
+  {
+    "text": "sevdiklerimi kaybetmek başarısız olmak",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9775344133377075
+    }
+  },
+  {
+    "text": "benden kopya çeken birisinin benden yüksek not alması",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.7934281229972839
+    }
+  },
+  {
+    "text": "birisi kavga ettiğimde",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.6430771946907043
+    }
+  },
+  {
+    "text": "arkadaşlarımın satması",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.6273631453514099
+    }
+  },
+  {
+    "text": "sınavda beklemediğim yüksek puan",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.5277845859527588
+    }
+  },
+  {
+    "text": "sınavların bitmesi",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9715108871459961
+    }
+  },
+  {
+    "text": "sevdiklerimin bana yalan söylemesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9982282519340515
+    }
+  },
+  {
+    "text": "çalıştığım halde sınavdan düşün not almıştım",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.999778687953949
+    }
+  },
+  {
+    "text": "birisi tartıştığımda",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.890649676322937
+    }
+  },
+  {
+    "text": "tuttuğum takımın küçük bir takıma yenilmesi (fenerbahçe)",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.928723931312561
+    }
+  },
+  {
+    "text": "genelde pek şaşırmam",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.8509505987167358
+    }
+  },
+  {
+    "text": "iyi anlamda beklemediğim bir olay olursa",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9464980959892273
+    }
+  },
+  {
+    "text": "ödev verilmediği zaman",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.5268598198890686
+    }
+  },
+  {
+    "text": "matematik sınavından 85 aldığım zaman",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.41288015246391296
+    }
+  },
+  {
+    "text": "beklemediğim birisi arkamdan konuştuğunda",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.5475736856460571
+    }
+  },
+  {
+    "text": "doğum günümde arkadaşlarım sürpriz parti hazırlamıştı",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.893292248249054
+    }
+  },
+  {
+    "text": "sevdiğim insanları kırmak",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9194886684417725
+    }
+  },
+  {
+    "text": "istediğim bir olmadığı zaman hayal kırıklığına uğradığım zaman",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.49929842352867126
+    }
+  },
+  {
+    "text": "yolda ezilmiş bir kedi gördüğüm zaman",
+    "intent": "disgust",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9507290124893188
+    }
+  },
+  {
+    "text": "10 beklediğim sınavdan 60 aldığım zaman",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.44422104954719543
+    }
+  },
+  {
+    "text": "babam iş kazası geçirdiğinde",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.4565432667732239
+    }
+  },
+  {
+    "text": "babamın birisiyle kavga etmesi ailemi kaybetmek",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.6638861894607544
+    }
+  },
+  {
+    "text": "kötü durumda olan insanları gördüğüm zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.4844960868358612
+    }
+  },
+  {
+    "text": "bütünlemeye kalınca",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.8255862593650818
+    }
+  },
+  {
+    "text": "yüksek seslerden",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.9121485352516174
+    }
+  },
+  {
+    "text": "düşük beklediğim sınavdan 100 alınca şaşırmıştım",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9999997615814209
+    }
+  },
+  {
+    "text": "arkadaşımın yaptığı trafik kazası",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.9835554957389832
+    }
+  },
+  {
+    "text": "kendisini benden üstün gören insanlar",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.9230417609214783
+    }
+  },
+  {
+    "text": "yüksek not beklerken düşük not almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.8551364541053772
+    }
+  },
+  {
+    "text": "beklemediğim anda sürpriz doğum günü yapılması",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.5640347003936768
+    }
+  },
+  {
+    "text": "iğrenç davranışlar",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.9095847606658936
+    }
+  },
+  {
+    "text": "güvendiğim insanların yanlış yapmasına",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9613131880760193
+    }
+  },
+  {
+    "text": "yüksek beklerken düşük not almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.8573485612869263
+    }
+  },
+  {
+    "text": "çalışkan bir arkadaşımın kötü not alması",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9003472924232483
+    }
+  },
+  {
+    "text": "hayalini kurduğum şeylerin olmaması",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.5098044276237488
+    }
+  },
+  {
+    "text": "çalıştığım sınavdan düşük not almıştım",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9987152814865112
+    }
+  },
+  {
+    "text": "haklı olduğum konuda haksız duruma düşmek",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.8487884998321533
+    }
+  },
+  {
+    "text": "oğuz arkadaşımı çıplak görmek",
+    "intent": "disgust",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9604217410087585
+    }
+  },
+  {
+    "text": "ingilizce sınavından düşük not almıştım",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9910036325454712
+    }
+  },
+  {
+    "text": "işlerimi yetiştiremediğim zamanlar",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.7404922246932983
+    }
+  },
+  {
+    "text": "ani olan sınavlar",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.41440069675445557
+    }
+  },
+  {
+    "text": "hamam böceği gördüğümde",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.8277580738067627
+    }
+  },
+  {
+    "text": "sevdiğim kişinin kız arkadaşı olduğunu öğrendiğim an",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.4332467317581177
+    }
+  },
+  {
+    "text": "öğretmenin sözlü sınavdan 50 vermesi",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.879149317741394
+    }
+  },
+  {
+    "text": "yumurta yediğim zaman",
+    "intent": "disgust",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.8897944092750549
+    }
+  },
+  {
+    "text": "matematik sınavından düşük not almıştım",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9819211959838867
+    }
+  },
+  {
+    "text": "tarih sorularını gördüğüm zaman",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.6914941072463989
+    }
+  },
+  {
+    "text": "sınıfta birinci olunca",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.6371402144432068
+    }
+  },
+  {
+    "text": "sevdiğim 4 arkadaşım aynı evde kaldığımız zaman",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.8927309513092041
+    }
+  },
+  {
+    "text": "fizik dersleri",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.4925168454647064
+    }
+  },
+  {
+    "text": "fare görmek",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.7618036270141602
+    }
+  },
+  {
+    "text": "yalnız kaldığımı hissettiğimde",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9295325875282288
+    }
+  },
+  {
+    "text": "kardeşimin benden uzun olması",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.4503849148750305
+    }
+  },
+  {
+    "text": "matematik sınavından 50 aldığımda",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.3563578128814697
+    }
+  },
+  {
+    "text": "eşyalarımın kayıp edilmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.6924141049385071
+    }
+  },
+  {
+    "text": "birisinin bana sürpriz yapması",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.8383884429931641
+    }
+  },
+  {
+    "text": "matematik dersi olmadığı zamanlar",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.39128005504608154
+    }
+  },
+  {
+    "text": "bir kız alışveriş yapmaktan nefret eder mi? ettim",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.8734690546989441
+    }
+  },
+  {
+    "text": "kötü geçen sınavdan 100 almak",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.6410137414932251
+    }
+  },
+  {
+    "text": "bir anda karşıma çıktığı zaman",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.574211597442627
+    }
+  },
+  {
+    "text": "evde böcek gördüğüm zaman",
+    "intent": "disgust",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.8303577899932861
+    }
+  },
+  {
+    "text": "hoşlandığım kişinin başka birisi çıkması",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.6743929982185364
+    }
+  },
+  {
+    "text": "yakın arkadaşımın ihaneti",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.8791230320930481
+    }
+  },
+  {
+    "text": "önemli oyun maçında internetin gitmesi",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.8221850991249084
+    }
+  },
+  {
+    "text": "sınavdan 40 almak",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.35648298263549805
+    }
+  },
+  {
+    "text": "beklemediğim düşük not",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.5707309246063232
+    }
+  },
+  {
+    "text": "beklediğimden yüksek not almıştım",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9945577383041382
+    }
+  },
+  {
+    "text": "sınavım iyi geçmişti ben kötü not almıştım",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9996498823165894
+    }
+  },
+  {
+    "text": "matematikten 60 aldığımda",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9047796726226807
+    }
+  },
+  {
+    "text": "haksız yere düşük not almak",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.8333163261413574
+    }
+  },
+  {
+    "text": "matematik öğretmeninin düşük not vermesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.8736737370491028
+    }
+  },
+  {
+    "text": "fare",
+    "intent": "disgust",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.6759052276611328
+    }
+  },
+  {
+    "text": "karşımdaki kişinin konuşurken sesini yükseltmesi",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.5074240565299988
+    }
+  },
+  {
+    "text": "mutsuz olduğum bir anda benimle uğraştıkları zaman",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.999630331993103
+    }
+  },
+  {
+    "text": "iyi geçen sınavdan düşük not almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.8975294232368469
+    }
+  },
+  {
+    "text": "yüksek almayı beklerken düşük bir not almak",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.5725414156913757
+    }
+  },
+  {
+    "text": "sevmediğim birisini görmek",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.8768141269683838
+    }
+  },
+  {
+    "text": "istediğim bir kıyafeti almıştım",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9999991655349731
+    }
+  },
+  {
+    "text": "kardeşimin olması",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.43591442704200745
+    }
+  },
+  {
+    "text": "amerika'daki ağabeyimin sürpriz yapması",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9281175136566162
+    }
+  },
+  {
+    "text": "sevmediğim bir yemek gördüğümde",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.8668913245201111
+    }
+  },
+  {
+    "text": "kardeşimin başına bir gelmesi",
+    "intent": "fear",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.8828591704368591
+    }
+  },
+  {
+    "text": "mutlu hissettiğim bir an olmadı",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9589298367500305
+    }
+  },
+  {
+    "text": "birisiyle kavga ettiğimde",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.741882860660553
+    }
+  },
+  {
+    "text": "sınavdan 98 aldığımı öğrendiğim zaman",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.5040439963340759
+    }
+  },
+  {
+    "text": "değer görmediğim zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9470489025115967
+    }
+  },
+  {
+    "text": "beklemediğim bir sınavdan yüksek not aldığım zaman",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.5494974851608276
+    }
+  },
+  {
+    "text": "arkadaşlarımdan destek görmediğim zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.557340681552887
+    }
+  },
+  {
+    "text": "100 beklediğim sınavdan 60 almak",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.5162128210067749
+    }
+  },
+  {
+    "text": "sınavdan beklediğimden düşük almıştım",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9920006990432739
+    }
+  },
+  {
+    "text": "insanlarla aynı ortamda bulunduğum zamanlar",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.9281696677207947
+    }
+  },
+  {
+    "text": "geçen sene yakın arkadaşımın bana ihanet etmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.5969715118408203
+    }
+  },
+  {
+    "text": "beklediğim okulu kazandığımda sevindim şaşırdım",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.7661697268486023
+    }
+  },
+  {
+    "text": "sevgilimle kavga ettiğimde",
+    "intent": "anger",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.7616602182388306
+    }
+  },
+  {
+    "text": "arkadaşlarım doğum günümde sürpriz yaptığı zaman",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9375223517417908
+    }
+  },
+  {
+    "text": "anneannemin artık hayatta olmadığını düşününce mutlu anımda bile ağlayabilirim",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "happy",
+      "confidence": 0.9894228577613831
+    }
+  },
+  {
+    "text": "hayvanlara zarar geldiği zaman",
+    "intent": "sadness",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.44546422362327576
+    }
+  },
+  {
+    "text": "ingilizce sınavından 100 aldığım zaman",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "ambigious",
+      "confidence": 0.48704591393470764
+    }
+  },
+  {
+    "text": "yüksek puan beklediğim sınavdan düşük alınca",
+    "intent": "surprise",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9149176478385925
+    }
+  },
+  {
+    "text": "katıldığım bir yarışmada derece almıştım",
+    "intent": "happy",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.9983412027359009
+    }
+  },
+  {
+    "text": "çalıştığım halde kötü not aldığım zaman",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "sadness",
+      "confidence": 0.9872822165489197
+    }
+  },
+  {
+    "text": "fizik derslerinden",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.8847765326499939
+    }
+  },
+  {
+    "text": "sevmediğim insanlar konuşurken",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "anger",
+      "confidence": 0.390271931886673
+    }
+  },
+  {
+    "text": "sınavdan 60 almam",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.754240095615387
+    }
+  },
+  {
+    "text": "sokakta kedilerin yakınıma gelmesi",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "disgust",
+      "confidence": 0.7373676896095276
+    }
+  },
+  {
+    "text": "gece denize girdiğimde",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "fear",
+      "confidence": 0.6403924822807312
+    }
+  },
+  {
+    "text": "arkadaşımın doğum günü için ona sürpriz bir hediye aldım",
+    "intent": "ambigious",
+    "intent_prediction": {
+      "name": "surprise",
+      "confidence": 0.7100296020507812
+    }
+  }
+]

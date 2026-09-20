@@ -1,0 +1,20 @@
+.rasa/
+.models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Local user data and secrets
+users.json
+.env
+
+# Generated or externally distributed model archives
+models/*.tar.gz
+
+# Operating-system files
+.DS_Store
+Thumbs.db
